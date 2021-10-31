@@ -1,0 +1,713 @@
+[
+	{
+		"id": 123249,
+		"isbn": "",
+		"title": "The Bitchographies: Random Commentaries About Life, Love, and Knockoff Christian Louboutins",
+		"image_url": "https://m.media-amazon.com/images/I/51a1QgaoZlL._SL500_.jpg",
+		"description": "Tired of following a complicated script of dos and don’ts, Vuitton bares all in her hilariously unfiltered vignettes. Nothing is off-limits, from dating disasters to botched Botox, calculating colleagues to fake friends, and so much more!",
+		"author": { "id": 53139, "name": "Vivienne Vuitton" },
+		"categories": ["korean", "horror", "thriller", "suspense", "romans"]
+	},
+	{
+		"id": 123248,
+		"isbn": "1734674016",
+		"title": "Losing the Atmosphere, A Memoir: A Baffling Disorder, a Search for Help, and the Therapist Who Understood",
+		"image_url": "https://m.media-amazon.com/images/I/41KbctPATZL._SL500_.jpg",
+		"description": "Born in 1940s Brooklyn, Vivian Conan grew up in two different worlds. Outside, she had friends, excelled in school; inside, she saw faces that weren't hers in her bedroom mirror that bathed her in the love and understanding she craved. Told with honesty, humor, and grace, Losing the Atmosphere is Vivian Conan's riveting account of her journey toward wholeness.  2021 Independent Audiobook Awards Finalist and Independent Press Awards Distinguished Favorite.",
+		"author": { "id": 53138, "name": "Vivian Conan" },
+		"categories": ["german", "drama", "fantasy", "programming", "romans"]
+	},
+	{
+		"id": 123247,
+		"isbn": "",
+		"title": "The Pursued and the Pursuing",
+		"image_url": "https://m.media-amazon.com/images/I/51+jzbWm8OS._SL500_.jpg",
+		"description": "While F. Scott Fitzgerald's The Great Gatsby ends after Jay Gatsby is shot and killed, The Pursued and the Pursuing explores what might have been had it left Gatsby with another chance at happiness. Find it he does, although not in the arms of Daisy Buchanan.",
+		"author": { "id": 53137, "name": "AJ Odasso" },
+		"categories": ["english", "fiction", "action", "crime", "programming"]
+	},
+	{
+		"id": 100076,
+		"isbn": "",
+		"title": "Python For Beginners: A Genius Guide to Python Programing",
+		"image_url": "https://m.media-amazon.com/images/I/41U9p5RXv1L._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101087, "name": "Edward Thornton" },
+		"categories": ["french", "thechnology", "thriller", "programming", "action"]
+	},
+	{
+		"id": 101313,
+		"isbn": "",
+		"title": "The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition: Your Journey to Mastery",
+		"image_url": "https://m.media-amazon.com/images/I/51A8l+FxFNL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101373, "name": "David Thomas" },
+		"categories": ["korean", "fiction", "thriller", "thriller", "suspense"]
+	},
+	{
+		"id": 101330,
+		"isbn": "",
+		"title": "Go For Beginners: A Genius Guide to Go Programing",
+		"image_url": "https://m.media-amazon.com/images/I/314SfwFQlQL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101951, "name": "Edward Thornton" },
+		"categories": ["english", "suspense", "fantasy", "mystery", "science fiction"]
+	},
+	{
+		"id": 100440,
+		"isbn": "",
+		"title": "Computer Programming: The Bible: Learn from the basics to advanced of Python, C, C++, C#, HTML Coding, and Black Hat Hacking Step-by-Step in No Time!",
+		"image_url": "https://m.media-amazon.com/images/I/51hVSO2ONDL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100483, "name": "CyberPunk Architects" },
+		"categories": ["english", "action", "programming", "suspense", "thechnology"]
+	},
+	{
+		"id": 101013,
+		"isbn": "",
+		"title": "The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job",
+		"image_url": "https://m.media-amazon.com/images/I/511rgSNg6SL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100041, "name": "John Sonmez" },
+		"categories": ["english", "fiction", "romans", "suspense", "thriller"]
+	},
+	{
+		"id": 100473,
+		"isbn": "",
+		"title": "Get your first 10 million dollars: Practical ways to earn 10 million in 30 days / marketing, business, import export, programing and money",
+		"image_url": "https://m.media-amazon.com/images/I/51-OP6I4eWL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100374, "name": "alami" },
+		"categories": ["english", "drama", "horror", "action", "fantasy"]
+	},
+	{
+		"id": 101635,
+		"isbn": "",
+		"title": "C# Programing: Learning C# With Thorough Guides For Beginners: C# Programming Book",
+		"image_url": "https://m.media-amazon.com/images/I/4173V0B+jeL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100398, "name": "Frances Byrnside" },
+		"categories": ["korean", "suspense", "crime", "thriller", "programming"]
+	},
+	{
+		"id": 100670,
+		"isbn": "1800207808",
+		"title": "Learning C# by Developing Games with Unity 2020: An enjoyable and intuitive approach to getting started with C# programming and Unity, 5th Edition",
+		"image_url": "https://m.media-amazon.com/images/I/41N28d7KECL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100150, "name": "Harrison Ferrone" },
+		"categories": ["korean", "science fiction", "romans", "thechnology", "thechnology"]
+	},
+	{
+		"id": 101420,
+		"isbn": "",
+		"title": "Algorithms to Live By: The Computer Science of Human Decisions",
+		"image_url": "https://m.media-amazon.com/images/I/51HiU+5mTwL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101245, "name": "Brian Christian" },
+		"categories": ["korean", "romans", "science fiction", "fantasy", "programming"]
+	},
+	{
+		"id": 101847,
+		"isbn": "",
+		"title": "Machine Learning: 4 Books in 1: Basic Concepts + Artificial Intelligence + Python Programming + Python Machine Learning. A Comprehensive Guide to Build Intelligent Systems Using Python Libraries",
+		"image_url": "https://m.media-amazon.com/images/I/51SiJ1KFFtL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100320, "name": "Ethem Mining" },
+		"categories": ["english", "thriller", "thechnology", "action", "science fiction"]
+	},
+	{
+		"id": 101722,
+		"isbn": "",
+		"title": "Coding Projects in Flutter: A Hands-On, Project-Based Introduction to Mobile App Development",
+		"image_url": "https://m.media-amazon.com/images/I/31+ZCVmceUL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101673, "name": "Edward Thornton" },
+		"categories": ["french", "crime", "thechnology", "action", "programming"]
+	},
+	{
+		"id": 101507,
+		"isbn": "0984782869",
+		"title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+		"image_url": "https://m.media-amazon.com/images/I/41oYsXjLvZL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 101600, "name": "Gayle Laakmann McDowell" },
+		"categories": ["german", "mystery", "fiction", "crime", "mystery"]
+	},
+	{
+		"id": 100537,
+		"isbn": "0999685902",
+		"title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+		"image_url": "https://m.media-amazon.com/images/I/31YJmObNTnL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100826, "name": "Cory Althoff" },
+		"categories": ["english", "drama", "action", "fiction", "science fiction"]
+	},
+	{
+		"id": 101433,
+		"isbn": "",
+		"title": "HTML algorithm and coding notebook to help coders keep their ideas and project codes: lined and numbered notebook for studying and for work the best ... coders keep their ideas and projects codes)",
+		"image_url": "https://m.media-amazon.com/images/I/31Z80pmOmnL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100859, "name": "Houssem Reggai" },
+		"categories": ["german", "horror", "fiction", "horror", "crime"]
+	},
+	{
+		"id": 100346,
+		"isbn": "",
+		"title": "C# programming algorithm and coding notebook to help coders keep their ideas and project codes: lined and numbered notebook for studying and for work ... coders keep their ideas and projects codes)",
+		"image_url": "https://m.media-amazon.com/images/I/31P4FrusY4L._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100838, "name": "Houssem Reggai" },
+		"categories": ["korean", "science fiction", "action", "science fiction", "science fiction"]
+	},
+	{
+		"id": 100287,
+		"isbn": "",
+		"title": "Swift Programming algorithm and coding notebook to help coders keep their ideas and project codes: lined and numbered notebook for studying and for ... coders keep their ideas and projects codes)",
+		"image_url": "https://m.media-amazon.com/images/I/310b-6Uo7NL._SL500_.jpg",
+		"description": "",
+		"author": { "id": 100165, "name": "Houssem Reggai" },
+		"categories": ["french", "crime", "thechnology", "thechnology", "drama"]
+	},
+	{
+		"id": 101644,
+		"isbn": "9780256075687",
+		"title": "Reconfigurable Processor Array A Bit Sliced Parallel Computer (USA)",
+		"image_url": "https://covers.openlibrary.org/b/id/8237007-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101873, "name": "A. Rushton" },
+		"categories": ["french", "action", "fiction", "thriller", "science fiction"]
+	},
+	{
+		"id": 101705,
+		"isbn": "0071238409",
+		"title": "Software Engineering",
+		"image_url": "https://covers.openlibrary.org/b/id/66176-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100682, "name": "Roger S. Pressman" },
+		"categories": ["french", "drama", "action", "thriller", "fiction"]
+	},
+	{
+		"id": 101536,
+		"isbn": "0747260400",
+		"title": "Tom Clancy's Net Force",
+		"image_url": "https://covers.openlibrary.org/b/id/225568-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101809, "name": "Tom Clancy" },
+		"categories": ["korean", "fantasy", "mystery", "fantasy", "thriller"]
+	},
+	{
+		"id": 100226,
+		"isbn": "",
+		"title": "Numerical methods for engineers",
+		"image_url": "https://covers.openlibrary.org/b/id/63301-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101998, "name": "Steven C. Chapra" },
+		"categories": ["english", "programming", "thechnology", "thriller", "suspense"]
+	},
+	{
+		"id": 101632,
+		"isbn": "",
+		"title": "IEEE standard for information technology",
+		"image_url": "https://covers.openlibrary.org/b/id/1883601-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100560, "name": "Institute of Electrical and Electronics Engineers." },
+		"categories": ["english", "horror", "fiction", "drama", "fiction"]
+	},
+	{
+		"id": 101755,
+		"isbn": "0078812593",
+		"title": "DOS",
+		"image_url": "https://covers.openlibrary.org/b/id/3956527-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101905, "name": "Kris A. Jamsa" },
+		"categories": ["german", "fantasy", "horror", "action", "mystery"]
+	},
+	{
+		"id": 101200,
+		"isbn": "9780421278487",
+		"title": "The Art of Computer Programming",
+		"image_url": "https://covers.openlibrary.org/b/id/8057262-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100692, "name": "Donald Knuth" },
+		"categories": ["german", "thriller", "horror", "suspense", "thriller"]
+	},
+	{
+		"id": 100673,
+		"isbn": "0878357661",
+		"title": "Learning to use microcomputer applications",
+		"image_url": "https://covers.openlibrary.org/b/id/6711179-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101642, "name": "Gary B. Shelly" },
+		"categories": ["german", "programming", "thriller", "suspense", "thechnology"]
+	},
+	{
+		"id": 101084,
+		"isbn": "0818502509",
+		"title": "BASIC",
+		"image_url": "https://covers.openlibrary.org/b/id/4665210-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100657, "name": "Robert J. Bent" },
+		"categories": ["french", "romans", "drama", "drama", "drama"]
+	},
+	{
+		"id": 101125,
+		"isbn": "1556151861",
+		"title": "Running MS-DOS",
+		"image_url": "https://covers.openlibrary.org/b/id/6426610-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101730, "name": "Van Wolverton" },
+		"categories": ["korean", "mystery", "horror", "mystery", "drama"]
+	},
+	{
+		"id": 101791,
+		"isbn": "0080491860",
+		"title": "Mostly BASIC",
+		"image_url": "https://covers.openlibrary.org/b/id/8697035-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100881, "name": "Howard Berebon" },
+		"categories": ["french", "thechnology", "suspense", "drama", "science fiction"]
+	},
+	{
+		"id": 101059,
+		"isbn": "0070652481",
+		"title": "Computers!",
+		"image_url": "https://covers.openlibrary.org/b/id/6998642-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101815, "name": "Trainor, Timothy N." },
+		"categories": ["french", "action", "drama", "action", "romans"]
+	},
+	{
+		"id": 101363,
+		"isbn": "9780521278487",
+		"title": "Structured Computer Organization",
+		"image_url": "https://covers.openlibrary.org/b/id/8723886-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100792, "name": "Andrew S. Tanenbaum" },
+		"categories": ["korean", "action", "fantasy", "action", "thriller"]
+	},
+	{
+		"id": 101091,
+		"isbn": "9780321278487",
+		"title": "Apple Training Series",
+		"image_url": "https://covers.openlibrary.org/b/id/193734-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101864, "name": "Peachpit Press" },
+		"categories": ["german", "thechnology", "action", "thriller", "action"]
+	},
+	{
+		"id": 101408,
+		"isbn": "0314895698",
+		"title": "Computers and information processing",
+		"image_url": "https://covers.openlibrary.org/b/id/6822262-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100648, "name": "Steven L. Mandell" },
+		"categories": ["german", "romans", "fantasy", "mystery", "crime"]
+	},
+	{
+		"id": 100012,
+		"isbn": "",
+		"title": "Hackers",
+		"image_url": "https://covers.openlibrary.org/b/id/106396-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100028, "name": "Steven Levy" },
+		"categories": ["english", "thriller", "drama", "action", "drama"]
+	},
+	{
+		"id": 101357,
+		"isbn": "0133213994",
+		"title": "The 80x86 IBM PC & compatible computers",
+		"image_url": "https://covers.openlibrary.org/b/id/4957670-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100142, "name": "Muhammad ali mazidi" },
+		"categories": ["german", "crime", "horror", "drama", "mystery"]
+	},
+	{
+		"id": 100357,
+		"isbn": "0262571048",
+		"title": "Using MPI",
+		"image_url": "https://covers.openlibrary.org/b/id/151585-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100848, "name": "William Gropp" },
+		"categories": ["english", "thriller", "science fiction", "fantasy", "fantasy"]
+	},
+	{
+		"id": 100775,
+		"isbn": "0130482684",
+		"title": "Problem solving and programming concepts",
+		"image_url": "https://covers.openlibrary.org/b/id/5423476-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100651, "name": "Maureen Sprankle" },
+		"categories": ["korean", "science fiction", "romans", "fantasy", "suspense"]
+	},
+	{
+		"id": 101259,
+		"isbn": "0070491870",
+		"title": "Dynamic HTML",
+		"image_url": "https://covers.openlibrary.org/b/id/6821912-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100738, "name": "Danny Goodman" },
+		"categories": ["english", "programming", "programming", "action", "fiction"]
+	},
+	{
+		"id": 101632,
+		"isbn": "0948825200",
+		"title": "Structured systems analysis and design methodology",
+		"image_url": "https://covers.openlibrary.org/b/id/4058970-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101312, "name": "Geoff Cutts" },
+		"categories": ["korean", "fiction", "horror", "drama", "fantasy"]
+	},
+	{
+		"id": 101896,
+		"isbn": "0451163616",
+		"title": "The Shining",
+		"image_url": "https://covers.openlibrary.org/b/id/7013717-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101930, "name": "Stephen King" },
+		"categories": ["english", "romans", "suspense", "thechnology", "horror"]
+	},
+	{
+		"id": 100174,
+		"isbn": "1416524304",
+		"title": "Carrie",
+		"image_url": "https://covers.openlibrary.org/b/id/8576476-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100918, "name": "Stephen King" },
+		"categories": ["french", "fiction", "suspense", "horror", "horror"]
+	},
+	{
+		"id": 100568,
+		"isbn": "2724247493",
+		"title": "Misery",
+		"image_url": "https://covers.openlibrary.org/b/id/8259296-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101270, "name": "Stephen King" },
+		"categories": ["german", "programming", "programming", "thriller", "drama"]
+	},
+	{
+		"id": 101037,
+		"isbn": "0451167615",
+		"title": "It",
+		"image_url": "https://covers.openlibrary.org/b/id/8569284-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101202, "name": "Stephen King" },
+		"categories": ["korean", "crime", "romans", "thechnology", "science fiction"]
+	},
+	{
+		"id": 100068,
+		"isbn": "2277250201",
+		"title": "The Green Mile",
+		"image_url": "https://covers.openlibrary.org/b/id/9334567-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101078, "name": "Stephen King" },
+		"categories": ["french", "horror", "drama", "fantasy", "fantasy"]
+	},
+	{
+		"id": 100597,
+		"isbn": "0451168615",
+		"title": "Skeleton Crew",
+		"image_url": "https://covers.openlibrary.org/b/id/9330629-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101272, "name": "Stephen King" },
+		"categories": ["english", "suspense", "thriller", "crime", "fiction"]
+	},
+	{
+		"id": 100360,
+		"isbn": "0751504408",
+		"title": "Cujo",
+		"image_url": "https://covers.openlibrary.org/b/id/8570003-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100769, "name": "Stephen King" },
+		"categories": ["english", "romans", "science fiction", "horror", "romans"]
+	},
+	{
+		"id": 100922,
+		"isbn": "0670260770",
+		"title": "The Dead Zone",
+		"image_url": "https://covers.openlibrary.org/b/id/401165-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101501, "name": "Stephen King" },
+		"categories": ["german", "drama", "programming", "thechnology", "action"]
+	},
+	{
+		"id": 101043,
+		"isbn": "0441167615",
+		"title": "The Stand",
+		"image_url": "https://covers.openlibrary.org/b/id/9255992-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101715, "name": "Stephen King" },
+		"categories": ["german", "thechnology", "thechnology", "suspense", "science fiction"]
+	},
+	{
+		"id": 100224,
+		"isbn": "0735713677",
+		"title": "Game Design",
+		"image_url": "https://covers.openlibrary.org/b/id/807998-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100413, "name": "Marc Saltzman" },
+		"categories": ["french", "romans", "mystery", "mystery", "crime"]
+	},
+	{
+		"id": 101736,
+		"isbn": "0070255261",
+		"title": "Microprocessors and interfacing",
+		"image_url": "https://covers.openlibrary.org/b/id/9089229-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100843, "name": "Douglas V. Hall" },
+		"categories": ["french", "romans", "fantasy", "suspense", "thechnology"]
+	},
+	{
+		"id": 100564,
+		"isbn": "0471089281",
+		"title": "Karel the Robot",
+		"image_url": "https://covers.openlibrary.org/b/id/6638305-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100228, "name": "Richard E. Pattis" },
+		"categories": ["korean", "thriller", "suspense", "fantasy", "action"]
+	},
+	{
+		"id": 101536,
+		"isbn": "0751504408",
+		"title": "Dracula",
+		"image_url": "https://covers.openlibrary.org/b/id/1861096-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100492, "name": "Bram Stoker" },
+		"categories": ["german", "suspense", "crime", "programming", "fiction"]
+	},
+	{
+		"id": 101524,
+		"isbn": "0451168616",
+		"title": "Dr Jekyll and Mr. Hyde",
+		"image_url": "https://covers.openlibrary.org/b/id/298038-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101549, "name": "Robert Louis Stevenson" },
+		"categories": ["german", "fiction", "fantasy", "action", "thriller"]
+	},
+	{
+		"id": 101059,
+		"isbn": "0471897183",
+		"title": "PC DOS",
+		"image_url": "https://covers.openlibrary.org/b/id/6700566-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100882, "name": "Ruth Ashley" },
+		"categories": ["english", "drama", "fiction", "crime", "crime"]
+	},
+	{
+		"id": 101851,
+		"isbn": "9780321534675",
+		"title": "Apple Pro Training Series",
+		"image_url": "https://covers.openlibrary.org/b/id/2384039-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101734, "name": "Diana Weynand" },
+		"categories": ["german", "programming", "romans", "thechnology", "suspense"]
+	},
+	{
+		"id": 100441,
+		"isbn": "0070491860",
+		"title": "Computer literacy",
+		"image_url": "https://covers.openlibrary.org/b/id/8156909-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100426, "name": "Arthur Luehrmann" },
+		"categories": ["korean", "action", "thechnology", "thechnology", "mystery"]
+	},
+	{
+		"id": 100815,
+		"isbn": "0534953654",
+		"title": "The analytical engine",
+		"image_url": "https://covers.openlibrary.org/b/id/1275190-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101662, "name": "Rick Decker" },
+		"categories": ["french", "fantasy", "romans", "programming", "fantasy"]
+	},
+	{
+		"id": 101222,
+		"isbn": "0314321713",
+		"title": "Introduction to computers using the IBM and MS-DOS PCs with BASIC",
+		"image_url": "https://covers.openlibrary.org/b/id/6518785-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100326, "name": "Steven L. Mandell" },
+		"categories": ["german", "suspense", "romans", "romans", "action"]
+	},
+	{
+		"id": 101486,
+		"isbn": "0314985662",
+		"title": "Understanding and using microcomputers",
+		"image_url": "https://covers.openlibrary.org/b/id/6696615-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101301, "name": "Steven M. Zimmerman" },
+		"categories": ["korean", "thriller", "mystery", "crime", "drama"]
+	},
+	{
+		"id": 100239,
+		"isbn": "0893035831",
+		"title": "Inside the IBM PC",
+		"image_url": "https://covers.openlibrary.org/b/id/9684079-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101804, "name": "Peter Norton" },
+		"categories": ["english", "action", "thechnology", "romans", "programming"]
+	},
+	{
+		"id": 101332,
+		"isbn": "",
+		"title": "iPhone Application Development For Dummies",
+		"image_url": "https://covers.openlibrary.org/b/id/7280804-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100147, "name": "Neal Goldstein" },
+		"categories": ["french", "thechnology", "science fiction", "drama", "horror"]
+	},
+	{
+		"id": 101729,
+		"isbn": "0669095702",
+		"title": "Introduction to Pascal and structured design",
+		"image_url": "https://covers.openlibrary.org/b/id/4038922-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101979, "name": "Nell B. Dale" },
+		"categories": ["french", "suspense", "programming", "suspense", "drama"]
+	},
+	{
+		"id": 100265,
+		"isbn": "0538108002",
+		"title": "Structured BASIC",
+		"image_url": "https://covers.openlibrary.org/b/id/8788857-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100546, "name": "James F. Clark" },
+		"categories": ["korean", "romans", "suspense", "fantasy", "drama"]
+	},
+	{
+		"id": 100311,
+		"isbn": "0123196272",
+		"title": "Microcomputer use",
+		"image_url": "https://covers.openlibrary.org/b/id/9704384-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101920, "name": "Teresa Alberte-Hallam" },
+		"categories": ["french", "programming", "science fiction", "suspense", "thriller"]
+	},
+	{
+		"id": 100938,
+		"isbn": "0387911758",
+		"title": "Introduction to real-time software design",
+		"image_url": "https://covers.openlibrary.org/b/id/1192539-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101667, "name": "S. T. Allworth" },
+		"categories": ["german", "science fiction", "horror", "fantasy", "thechnology"]
+	},
+	{
+		"id": 100466,
+		"isbn": "0596000820",
+		"title": "Mac OS X",
+		"image_url": "https://covers.openlibrary.org/b/id/388480-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100268, "name": "David Pogue" },
+		"categories": ["english", "drama", "action", "programming", "fiction"]
+	},
+	{
+		"id": 101058,
+		"isbn": "",
+		"title": "Masters of Doom",
+		"image_url": "https://covers.openlibrary.org/b/id/606299-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101363, "name": "David Kushner" },
+		"categories": ["english", "thechnology", "programming", "romans", "fiction"]
+	},
+	{
+		"id": 101410,
+		"isbn": "0126729719",
+		"title": "Calculus using Mathematica",
+		"image_url": "https://covers.openlibrary.org/b/id/8273177-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100809, "name": "K. D. Stroyan" },
+		"categories": ["german", "action", "mystery", "fiction", "drama"]
+	},
+	{
+		"id": 100942,
+		"isbn": "2266002619",
+		"title": "Brave New World",
+		"image_url": "https://covers.openlibrary.org/b/id/8231823-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101413, "name": "Aldous Huxley" },
+		"categories": ["korean", "programming", "mystery", "thechnology", "programming"]
+	},
+	{
+		"id": 100849,
+		"isbn": "2266002669",
+		"title": "Nineteen Eighty-Four",
+		"image_url": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101572, "name": "George Orwell" },
+		"categories": ["korean", "mystery", "programming", "suspense", "mystery"]
+	},
+	{
+		"id": 101956,
+		"isbn": "2266012619",
+		"title": "Vingt mille lieues sous les mers",
+		"image_url": "https://covers.openlibrary.org/b/id/6573517-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101896, "name": "Jules Verne" },
+		"categories": ["english", "fiction", "romans", "thriller", "fantasy"]
+	},
+	{
+		"id": 100644,
+		"isbn": "2266022619",
+		"title": "The Invisible Man",
+		"image_url": "https://covers.openlibrary.org/b/id/6419199-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101362, "name": "H. G. Wells" },
+		"categories": ["french", "programming", "romans", "thechnology", "thechnology"]
+	},
+	{
+		"id": 100086,
+		"isbn": "2266032619",
+		"title": "The Lost World",
+		"image_url": "https://covers.openlibrary.org/b/id/8231444-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101805, "name": "Arthur Conan Doyle" },
+		"categories": ["french", "mystery", "programming", "mystery", "crime"]
+	},
+	{
+		"id": 101984,
+		"isbn": "2266042619",
+		"title": "The Time Machine",
+		"image_url": "https://covers.openlibrary.org/b/id/4704860-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101469, "name": "H. G. Wells" },
+		"categories": ["german", "suspense", "mystery", "thriller", "programming"]
+	},
+	{
+		"id": 100914,
+		"isbn": "2266017619",
+		"title": "The War of the Worlds",
+		"image_url": "https://covers.openlibrary.org/b/id/3033885-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100866, "name": "H. G. Wells" },
+		"categories": ["korean", "action", "programming", "drama", "fiction"]
+	},
+	{
+		"id": 101026,
+		"isbn": "2266092619",
+		"title": "Journey to the Center of the Earth",
+		"image_url": "https://covers.openlibrary.org/b/id/5890987-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101733, "name": "Jules Verne" },
+		"categories": ["korean", "suspense", "romans", "science fiction", "programming"]
+	},
+	{
+		"id": 100661,
+		"isbn": "2263092619",
+		"title": "The Hitch Hiker's Guide to the Galaxy",
+		"image_url": "https://covers.openlibrary.org/b/id/11464254-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 100108, "name": "Douglas Adams" },
+		"categories": ["german", "horror", "romans", "fantasy", "thechnology"]
+	},
+	{
+		"id": 100551,
+		"isbn": "2263002619",
+		"title": "The Iron Heel",
+		"image_url": "https://covers.openlibrary.org/b/id/8243314-L.jpg",
+		"description": "Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta.",
+		"author": { "id": 101186, "name": "Jack London" },
+		"categories": ["english", "crime", "mystery", "thriller", "thechnology"]
+	}
+]

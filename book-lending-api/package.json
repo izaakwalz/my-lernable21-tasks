@@ -1,0 +1,17 @@
+{
+	"name": "book-lending-api",
+	"version": "1.0.0",
+	"description": "a book directroy api using vanilla node.js",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"populate": "utils/seeder.js"
+	},
+	"keywords": [
+		"node",
+		"nodejs",
+		"javascript"
+	],
+	"author": "Izaak Chukwuma",
+	"license": "ISC"
+}
