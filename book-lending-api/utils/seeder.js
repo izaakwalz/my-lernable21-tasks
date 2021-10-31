@@ -1,7 +1,8 @@
 const fs = require('fs').promises;
 const crypto = require('crypto');
 
-let num = 2;
+const books = require('../data/data.json'); // books
+
 for (let book of books) {
 	const data = {
 		tittle: book.title,
