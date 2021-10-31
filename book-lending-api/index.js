@@ -1,16 +1,16 @@
 /**
  * Entry file to out application
  */
-const http = require('http');
-const url = require('url');
+const { createServer } = require('http');
+const { parse } = require('url');
 const { StringDecoder } = require('string_decoder');
 const routeHandler = require('./routes');
 
-const server = http.createServer((req, res) => {
+const server = createServer((req, res) => {
 	const method = req.method.toLowerCase();
-	const current_url = url.parse(req.url, true);
-	const pathname = current_url.pathname;
-	const query = current_url.query;
+	const parsed_url = parse(req.url, true); // current url object parsed
+	const pathname = parsed_url.pathname;
+	const query = parsed_url.query;
 	const trimed_path = pathname.replace(/^\/+|\/+$/g, '');
 	const headers = req.headers;
 
@@ -25,7 +25,6 @@ const server = http.createServer((req, res) => {
 		const payload = buffer && JSON.parse(buffer);
 
 		const data = {
-			url: current_url,
 			method,
 			query,
 			trimed_path,
@@ -54,7 +53,8 @@ const router = {
 	'': routeHandler.ping,
 	'api/v1/auth/register': routeHandler.auth.register,
 	'api/v1/auth/login': routeHandler.auth.login,
-	'api/v1/users': routeHandler.users,
+	'api/v1/users': routeHandler.users.findAllUsers,
+	'api/v1/me': routeHandler.users.findOneUser,
 	'api/v1/books': routeHandler.books,
 	'api/v1/users/lend': routeHandler.loan.lendBook,
 	'api/v1/users/return': routeHandler.loan.returnBook,
