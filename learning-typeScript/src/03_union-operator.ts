@@ -1,17 +1,16 @@
-/\*\*
+/**
+ * types and uninos
+ */
 
--   types and uninos
-    \*/
-
-// type alliases: default basic types
+//  type alliases: default basic types
 type ID = string;
 type PopularTag = string;
 type MaybePopularTag = PopularTag | null;
 
 interface UserInterface {
-id: ID;
-name: string;
-surname: string;
+	ids: ID;
+	name: string;
+	surname: string;
 }
 
 let username: string = 'alex';
@@ -24,7 +23,7 @@ let errorMessage: string | null = null;
 
 let someProp: string | number | null | undefined | string[] | object;
 
-// Unions + Type Alliases
+//  Unions + Type Alliases
 const popularTags: PopularTag[] = ['dragon', 'coffe']; // arrary of strings
 
 const dragonTag: MaybePopularTag = '';

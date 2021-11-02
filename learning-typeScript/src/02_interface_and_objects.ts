@@ -11,10 +11,10 @@
 
 // postfix for all my interface
 interface UserInterface {
- readonly id:number; // readonly
- name: string;
- age?: number;
- getMessage(): string;
+	readonly id: number; // readonly
+	name: string;
+	age?: number;
+	getMessage(): string;
 }
 
 /**
@@ -30,10 +30,10 @@ interface UserInterface {
 
 const user2: UserInterface = {
 	id: 1,
-  name: 'Jack',
-  getMessage() {
-    return 'Hello';
-  },
+	name: 'Jack',
+	getMessage() {
+		return 'Hello';
+	},
 };
 // console.log(user2.getMessage());
 
