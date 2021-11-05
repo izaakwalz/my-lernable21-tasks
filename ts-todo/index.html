@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!-- meat data -->
+		<meta name="description" content="My Todo is the first task given to backend devlopers in genesy internship" />
+		<meta name="keyword" content="todo text list" />
+		<!-- link to stylesheet -->
+		<link href="./css/main.css" rel="stylesheet" />
+		<!-- <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" /> -->
+		<!-- page title -->
+		<title>My Todo</title>
+	</head>
+	<!-- body -->
+	<body class="h-screen bg-gray-900 overflow-hidden flex items-center justify-center">
+		<div class="h-100 w-full flex items-center justify-center bg-teal-lightest font-sans">
+			<!-- main content -->
+			<div class="bg-yellow-700 rounded shadow p-6 m-4 w-full lg:w-3/4 lg:max-w-lg">
+				<div class="mb-4">
+					<h1 class="text-gray-900 uppercase font-bold">Todo List</h1>
+					<!-- input form -->
+					<form id="add_todo" autocomplete="off">
+						<div class="flex mt-4">
+							<input
+								class="
+									shadow
+									appearance-none
+									border
+									rounded
+									border-gray-900
+									bg-gray-900
+									w-full
+									py-2
+									px-3
+									mr-4
+									text-gray-200
+								"
+								type="text"
+								id="title"
+								name="title"
+								placeholder="Add Todo"
+							/>
+							<button
+								class="
+									flex-no-shrink
+									uppercase
+									p-2
+									border-2
+									rounded
+									text-gray-200
+									bg-gray-900
+									border-gray-900
+									hover:text-white hover:bg-teal
+								"
+								id="add"
+							>
+								Add
+							</button>
+							<button
+								class="
+									flex-no-shrink
+									uppercase
+									p-2
+									border-2
+									rounded
+									text-gray-200
+									hidden
+									bg-green-900
+									border-green-900
+									hover:text-white hover:bg-teal
+								"
+								id="update"
+							>
+								Save
+							</button>
+						</div>
+						<small id="error" class="text-pink-300 hidden" style="transition: all ease-in-out 20ms"
+							>!Warning: Please fill the field</small
+						>
+					</form>
+				</div>
+				<div id="todo">
+					<!-- <div class="flex mb-4 items-center">
+						<p class="w-full text-grey-200">Add another component to Tailwind Components</p>
+						<a type="button" class="flex-no-shrink p-2 ml-4 mr-2 border-2 rounded hover:text-white text-grey-200 bg-green-900 border-green-900 hover:bg-green-800">EDIT</a>
+						<a type="button" class="flex-no-shrink p-2 border-2	rounded hover:text-white text-red-200 bg-red-900 border-red-900 hover:bg-red-800">X</a>
+					</div> -->
+				</div>
+			</div>
+		</div>
+		<script src="./dist//index.js" type="module"></script>
+		<script src="./dist//services.js"></script>
+	</body>
+</html>
