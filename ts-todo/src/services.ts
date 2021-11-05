@@ -49,7 +49,7 @@ class HelperFunctions {
 	async deleteTodo(id: string) {
 		const todos = this.getTodos();
 
-		todos.map((todo, index: number) => {
+		todos.map((todo: { id: string }, index: number) => {
 			if (todo.id == id) todos.splice(index, 1);
 		});
 

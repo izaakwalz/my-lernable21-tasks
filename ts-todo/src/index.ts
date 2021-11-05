@@ -54,10 +54,35 @@ const handleSubmit = (e: { preventDefault: () => void }) => {
 		todoList(data);
 	}
 };
-
+// Delete todo
 const deleteTodo = (event: HTMLBodyElement) => {
 	if (event.classList.contains('del')) {
 		event.parentElement.parentElement.remove();
+	}
+};
+
+// Edit todo function
+const editTodo = (event) => {
+	if (event.classList.contains('upd')) {
+		// get all todos
+		const todos = AppServices.getTodos();
+		// get the id of current todo
+		const id = event.parentElement.previousElementSibling.textContent;
+
+		todos.map((todo: { id: string; title: string }) => {
+			if (todo.id == id) {
+				const titleValue = document.getElementById('title') as HTMLInputElement;
+
+				let title = titleValue.value;
+
+				title = todo.title;
+				document.getElementById('update').classList.add(`${todo.id}`);
+			}
+			// remove hidden class from  update todo button
+			document.getElementById('update').classList.remove('hidden');
+			// add hidden class to create todo button
+			document.getElementById('add').classList.add('hidden');
+		});
 	}
 };
 
@@ -74,4 +99,9 @@ document.getElementById('todo').addEventListener('click', (e) => {
 	deleteTodo(target);
 	const id = target.parentElement.previousElementSibling.previousElementSibling.textContent;
 	AppServices.deleteTodo(id);
+});
+
+// Event Edit Todo
+document.getElementById('todo').addEventListener('click', (e) => {
+	editTodo(e.target);
 });
