@@ -16,11 +16,11 @@ const todoList = (todo) => {
 	const div = document.createElement('div');
 
 	div.innerHTML = `
-     <div  class="flex mb-4 items-center" style="transition: opacity 2000ms ease-in;">
-     <p class="w-full text-grey-200">${todo.title}</p>
+     <div  class="flex mb-4 items-center transform transition-all duration-500">
+     <p class="w-full text-gray-100">${todo.title}</p>
 	 <p style="display: none;">${todo.id}</p>
-     <p><a type="button" class="flex-no-shrink p-2 ml-4 mr-2 border-2 rounded hover:text-white text-grey-200 bg-green-900 border-green-900 hover:bg-green-800 upd">EDIT</a></p>
-     <p><a type="button" class="flex-no-shrink p-2 border-2 rounded hover:text-white text-red-200 bg-red-900 border-red-900 hover:bg-red-800 del">X</a></p>
+     <p><a type="button" class="flex-no-shrink p-2 ml-4 mr-2 border-2 rounded hover:text-white text-gray-200 bg-green-900 border-green-900 hover:bg-green-900 cursor-pointer upd">EDIT</a></p>
+     <p><a type="button" class="flex-no-shrink p-2 border-2 rounded hover:text-white text-red-200 bg-red-900 cursor-pointer border-red-900 hover:bg-red-800 del">X</a></p>
     </div>
     `;
 
