@@ -7,12 +7,12 @@ const Header = () => {
 	const [title, setTitle] = useState('');
 	const dispatch = useDispatch();
 
-	const addTodo = useSelector((state: { addTodo: { loading: boolean; product: object } }) => state.addTodo);
-	const { loading, product } = addTodo;
+	const addTodo = useSelector((state: { addTodo: { loading: boolean; todo: object } }) => state.addTodo);
+	const { loading, todo } = addTodo;
 
 	useEffect(() => {
 		dispatch(getTodos);
-	}, [dispatch, product]);
+	}, [dispatch, todo]);
 
 	const handlesubmit = (e: { preventDefault: () => void }) => {
 		e.preventDefault();
