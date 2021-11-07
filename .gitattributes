@@ -5,8 +5,8 @@
 
 *.css             text diff=css
 *.html            text diff=html
-*.js              text
+*.js              text diff=js
 *.json            text
-*.jsx             text
-*.ts              text
-*.tsx             text
+*.jsx             text diff=jsx
+*.ts              text diff=ts 
+*.tsx             text diff=tsx
