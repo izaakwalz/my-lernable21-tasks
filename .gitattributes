@@ -6,6 +6,7 @@
 *.js linguist-vendored=false
 *.ts linguist-vendored=false
 *.tsx linguist-vendored=false
+*.json linguist-vendored=false
 # Source code
 
 # 👽
