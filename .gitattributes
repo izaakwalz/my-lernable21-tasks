@@ -1,18 +1,11 @@
 # Auto detect text files and perform LF normalization
-# * text=auto
+* text=auto
 * linguist-vendored
+*.html linguist-vendored=false
+*.css linguist-vendored=false
 *.js linguist-vendored=false
 *.ts linguist-vendored=false
 *.tsx linguist-vendored=false
 # Source code
-# *.js linguist-language=JavaScript
-# ts-todo/** linguist-vendored
-# todo-list/** linguist-vendored
-# *.css             text diff=css
-# *.html            text diff=html
-# *.js              text diff=js
-# *.json            text
-# *.jsx             text diff=jsx
-# *.ts              text diff=ts 
-# *.tsx             text diff=tsx
+
 # 👽
