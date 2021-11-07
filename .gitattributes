@@ -1,4 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-* .js=auto
-* .ts=auto
+
+# Source code
+
+*.css             text diff=css
+*.html            text diff=html
+*.js              text
+*.json            text
+*.jsx             text
+*.ts              text
+*.tsx             text
