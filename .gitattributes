@@ -2,11 +2,13 @@
 * text=auto
 
 # Source code
-
-*.css             text diff=css
-*.html            text diff=html
-*.js              text diff=js
-*.json            text
-*.jsx             text diff=jsx
-*.ts              text diff=ts 
-*.tsx             text diff=tsx
+ts-todo/** linguist-vendored
+todo-list/** linguist-vendored
+# *.css             text diff=css
+# *.html            text diff=html
+# *.js              text diff=js
+# *.json            text
+# *.jsx             text diff=jsx
+# *.ts              text diff=ts 
+# *.tsx             text diff=tsx
+# 👽
