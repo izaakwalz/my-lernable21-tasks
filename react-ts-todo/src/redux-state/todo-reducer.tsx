@@ -18,13 +18,10 @@ export const addTodoReducer = (state: object = { todo: {} }, action: any) => {
 	}
 };
 
-export const removeTodo = (state: object = {}, action: any) => {
+export const removeTodo = (state: object = {}, action: any): object => {
 	switch (action.type) {
 		case DELETE_TODO_SUCCESS:
-			return {
-				loading: false,
-				success: true,
-			};
+			return { loading: true, success: true };
 		default:
 			return state;
 	}

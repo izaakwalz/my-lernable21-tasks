@@ -30,7 +30,7 @@ export const addTodoList = (data: object) => async (dispatch: (arg0: { type: str
 	localStorage.setItem('todos', JSON.stringify(todos));
 };
 
-export const deleteTodo = (id: string) => async (dispatch: (arg0: { type: string; payload: string }) => void) => {
+export const deleteTodo = (id: string) => async (dispatch: (arg0: { type: string }) => void) => {
 	let todos: any = localStorage.getItem('todos');
 
 	if (!todos) todos = [];
@@ -38,7 +38,7 @@ export const deleteTodo = (id: string) => async (dispatch: (arg0: { type: string
 
 	await todos.map((todo: { id: string }, index: number) => todo.id === id && todos.splice(index, 1));
 
-	dispatch({ type: DELETE_TODO_SUCCESS, payload: id });
+	dispatch({ type: DELETE_TODO_SUCCESS });
 
 	localStorage.setItem('todos', JSON.stringify(todos));
 };
